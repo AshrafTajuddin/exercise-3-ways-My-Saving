@@ -3,10 +3,10 @@
 * Write a function that accepts several parameters and calculates the number of money that will have been saved as pension until a person retires.
 
 * The function should be self invoked and should have the following parameters:
-* -The current age of the person // e.g. 40
-* -The retirement age of the person // e.g. 60
-* -The monthly wage the person earns // e.g. 1000
-* -The percentage (as integer) that the person saves each month // e.g. 10%
+* The current age of the person // e.g. 40
+* The retirement age of the person // e.g. 60
+* The monthly wage the person earns // e.g. 1000
+* he percentage (as integer) that the person saves each month // e.g. 10%
 
 * If the person has already retired then the message ‘You’re already retired!’ should be printed. 
 

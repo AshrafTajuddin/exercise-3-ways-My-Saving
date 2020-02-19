@@ -29,7 +29,7 @@ Output: $30000
 
 ## Solutions
 
-- [First Solution]()
+- [First Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/tree/first)
   ![im7](https://im7.ezgif.com/tmp/ezgif-7-c26815349c80.gif)
 
   ```javascript
@@ -42,7 +42,7 @@ Output: $30000
   // 3. At the end pass the number to check if we get the output 30000
   ```
 
-- [Second Solution]()
+- [Second Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/tree/second)
   ![im7](https://im7.ezgif.com/tmp/ezgif-7-b8c767ef91bb.gif)
 
   ```javascript

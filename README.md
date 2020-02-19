@@ -51,7 +51,7 @@ Output: $30000
 
 ## Resources
 - [Self-Invoking Functions](https://scriptverse.academy/tutorials/js-self-invoking-functions.html)
--
+
 
 
 

@@ -1,7 +1,7 @@
 ## First solution
 
 - [First Solution]()
-  ![im7](https://i.imgur.com/3hxdF1M.gif)
+  ![Imgur](https://i.imgur.com/p4yVyg3.gif)
 
   ```javascript
 
@@ -13,12 +13,7 @@
   // 3. At the end pass the number to check if we get the output 30000
   ```
 
-- [Second Solution]()
-  ![im7](https://im7.ezgif.com/tmp/ezgif-7-b8c767ef91bb.gif)
 
-  ```javascript
-  // 1. Using normal self-invoking function.
-  ```
 
 ## Resources
 - [Self-Invoking Functions](https://scriptverse.academy/tutorials/js-self-invoking-functions.html)

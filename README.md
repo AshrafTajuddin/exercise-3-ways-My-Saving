@@ -1,5 +1,6 @@
-# My Saving 
+# My Saving when i'm retired
 
+## Data Structure
 * Write a function that accepts several parameters and calculates the number of money that will have been saved as pension until a person retires.
 
 * The function should be self invoked and should have the following parameters:
@@ -14,7 +15,8 @@
 the monthly income and take a specific percent of this income every month as saved money.
 
 
-* Example: A lady is 40 years old, she retires at 65, she earns $2000 per month and she saves the 5% of it. 
+**Example**
+- A lady is 40 years old, she retires at 65, she earns $2000 per month and she saves the 5% of it. 
 How much money will she have saved until she retires?
 Output: $30000
 
@@ -49,6 +51,7 @@ Output: $30000
 
 ## Resources
 - [Self-Invoking Functions](https://scriptverse.academy/tutorials/js-self-invoking-functions.html)
+-
 
 
 

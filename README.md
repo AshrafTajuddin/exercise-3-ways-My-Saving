@@ -30,7 +30,7 @@ Output: $30000
 ## Solutions
 
 - [First Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/tree/first)
-  ![Imgur](https://imgur.com/p4yVyg3)
+  ![Imgur](https://i.imgur.com/p4yVyg3.gif)
 
   ```javascript
 
@@ -43,7 +43,7 @@ Output: $30000
   ```
 
 - [Second Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/tree/second)
-  ![Imgur](https://imgur.com/3hxdF1M)
+  ![Imgur](https://i.imgur.com/3hxdF1M.gif)
 
   ```javascript
   // 1. Using normal self-invoking function.

@@ -30,7 +30,7 @@ Output: $30000
 ## Solutions
 
 - [First Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/tree/first)
-  ![im7](https://gph.is/g/Zd7A0N3)
+  ![giphy](https://media.giphy.com/media/L3iP48Eu0XtswQIGJr/giphy.gif)
 
   ```javascript
 

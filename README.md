@@ -1,6 +1,6 @@
 ## Second solution
 
-- [Second Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/tree/second)
+- [Second Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/blob/second/solution2.js)
   ![Imgur](https://i.imgur.com/3hxdF1M.gif)
 
   ```javascript

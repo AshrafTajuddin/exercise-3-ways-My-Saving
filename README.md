@@ -1,6 +1,6 @@
 ## First solution
 
-- [First Solution]()
+- [First Solution](https://github.com/AshrafTajuddin/exercise-3-ways-My-Saving/blob/first/solution1.js)
   ![Imgur](https://i.imgur.com/p4yVyg3.gif)
 
   ```javascript
